@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 📚 Teaching Assistant for DSC10 @ UCSD, mentoring ~300 students
 
 ## Research
-- 📄 [Poster Title Here](your-poster-link) — brief one-liner description
+- 📄 [Poster Title Here]([your-poster-link](https://github.com/avimehta30/llm_distillation_research/blob/5900dd89fafd767da0da5339f9010f3ef43396fb/Large%20Language%20Model%20Distillation%20Poster.pdf)) — brief one-liner description
 - 📄 [Poster Title Here](your-poster-link) — brief one-liner description
 
 ## Hackathons
