@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📚 Teaching Assistant for DSC10 @ UCSD, mentoring ~300 students
 
 ## Research
-- 💧 [LLM Distillation & Watermarking](https://github.com/avimehta30/llm_distillation_research/blob/5900dd89fafd767da0da5339f9010f3ef43396fb/Large%20Language%20Model%20Distillation%20Poster.pdf)
-- ⚛️ [PointNet FPGA Quantization](https://github.com/avimehta30/pointnet-fpga-quantization/blob/877bcb54a33985c0f026d0a9a585a570596b4cbf/HDSI%20Undergraduate%20Scholarship%20Project.pdf)
+- 💧 [LLM Distillation & Watermarking](https://github.com/avimehta30/llm_distillation_research/blob/5900dd89fafd767da0da5339f9010f3ef43396fb/Large%20Language%20Model%20Distillation%20Poster.pdf) - Investigated whether watermarks survive knowledge distillation in LLMs, with a proposed regularization-based algorithm to preserve them
+- ⚛️ [PointNet FPGA Quantization](https://github.com/avimehta30/pointnet-fpga-quantization/blob/877bcb54a33985c0f026d0a9a585a570596b4cbf/HDSI%20Undergraduate%20Scholarship%20Project.pdf) - Optimizing Deep Learning Models to deploy on FPGA chips in support of physics research
 
 ## Hackathons
 - 🏆 [San Diego Big Data Hackathon 2024](https://bigdataforsandiego.github.io/)
