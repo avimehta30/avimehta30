@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi, I'm Avi 👋
+
+- 🎓 M.S. Computer Science @ UC San Diego | B.S. Data Science @ UCSD
+- 🔬 Previously: AI/ML Engineering Intern @ Globalization Partners · AI Research @ RARE Labs · LLM Research @ CUHK
+- 🛡️ Passionate about using AI/ML for social good!
+- 📚 Teaching Assistant for DSC10 @ UCSD, mentoring ~300 students
+
+## Research
+- 📄 [Poster Title Here](your-poster-link) — brief one-liner description
+- 📄 [Poster Title Here](your-poster-link) — brief one-liner description
+
+## Hackathons
+- 🏆 [San Diego Big Data Hackathon 2024](https://bigdataforsandiego.github.io/)
+  - [CareDirect](https://github.com/BigDataForSanDiego/Team-229) — Won $1000 for Most Innovative Project
+
+## Connect
+- 💼 [LinkedIn](www.linkedin.com/in/avimehtadsc)
