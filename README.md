@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 # Hi, I'm Avi 👋
 
 - 🛡️ Passionate about using AI/ML for social good!
-- 🎓 M.S. Computer Science @ UC San Diego | B.S. Data Science @ UCSD
+- 🎓 M.S. Computer Science @ UC San Diego | B.S. Data Science @ UC San Diego
 - 🔬 Previously: AI/ML Engineering Intern @ Globalization Partners · AI Research @ RARE Labs · LLM Research @ CUHK
 - 📚 Teaching Assistant for DSC10 @ UCSD, mentoring ~300 students
 
