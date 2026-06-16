@@ -21,8 +21,8 @@ Here are some ideas to get you started:
 - 📚 Teaching Assistant for DSC10 @ UCSD, mentoring ~300 students
 
 ## Research
-- 📄 [Poster Title Here]([your-poster-link](https://github.com/avimehta30/llm_distillation_research/blob/5900dd89fafd767da0da5339f9010f3ef43396fb/Large%20Language%20Model%20Distillation%20Poster.pdf)) — brief one-liner description
-- 📄 [Poster Title Here](your-poster-link) — brief one-liner description
+- 📄 [LLM Distillation & Watermarking](https://github.com/avimehta30/llm_distillation_research/blob/5900dd89fafd767da0da5339f9010f3ef43396fb/Large%20Language%20Model%20Distillation%20Poster.pdf)
+- 📄 [PointNet FPGA Quantization](https://github.com/avimehta30/pointnet-fpga-quantization/blob/877bcb54a33985c0f026d0a9a585a570596b4cbf/HDSI%20Undergraduate%20Scholarship%20Project.pdf)
 
 ## Hackathons
 - 🏆 [San Diego Big Data Hackathon 2024](https://bigdataforsandiego.github.io/)
